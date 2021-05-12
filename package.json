@@ -11,7 +11,7 @@
     "jquery": "^3.3.1",
     "meteor-node-stubs": "^0.4.1",
     "popper.js": "^1.14.4",
-    "simpl-schema": "^1.5.3",
+    "simpl-schema": "^1.10.2",
     "underscore": "^1.9.1"
   }
 }
